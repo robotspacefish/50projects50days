@@ -1,8 +1,8 @@
 # 50 Projects in 50 Days
 
 1. [x] Expanding Cards
-1. [ ] Progress Steps
-1. [ ] Rotating Navigation
+1. [x] Progress Steps
+1. [x] Rotating Navigation
 1. [ ] Hidden Search Widget
 1. [ ] Blurry Loading
 1. [ ] Scroll Animation
